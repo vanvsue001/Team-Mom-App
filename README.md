@@ -11,4 +11,6 @@ events or games and share them with the entire team. This feature helps to build
 from the season. Overall, this app offers a convenient, all-in-one solution for sports teams, making it easier to manage their schedules, track attendance, and 
 communicate with team members.
 
+## Coming to the Google Play Store Soon!
+
 ## Technical Architecture
